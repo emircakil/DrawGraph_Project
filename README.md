@@ -19,3 +19,4 @@ You can enter a graph then program is show you graph with JFrame
 
 ![image-005](https://user-images.githubusercontent.com/91792539/227678967-c868dc58-4acc-44f2-b418-1d9eca1df7f8.png)
 *Another graph for testing.*
+---
