@@ -1,6 +1,6 @@
 # DrawGraph_Project
 You can enter a graph then program is show you graph with JFrame
----
+
 ![image-000](https://user-images.githubusercontent.com/91792539/227678826-3b062f5f-e80f-409b-9ac4-2020aa67ec4f.png)
 *You can choose how many nodes are on the graph. Then you can create a graph.*
 ---
